@@ -1,6 +1,6 @@
 # nginx-turbine
 基于logstash,kafka,hystrix,turbine的nginx日志展示流系统
-<center><img src="nginx-turbine.vsd"></center>
+<center><img src="20170209162127.png"></center>
 ## logstash 设置
 ``` file
 input {
